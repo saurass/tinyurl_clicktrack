@@ -1,0 +1,17 @@
+{
+  "name": "clicktrack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saurass",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.7.7",
+    "npm": "^6.14.6",
+    "rsmq": "^0.12.2"
+  }
+}
